@@ -1,5 +1,4 @@
 import idaapi
-from idaapi import Choose2
 
 start_ea = 0x7C19
 
